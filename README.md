@@ -1,5 +1,5 @@
 # RBNsims
-Jupyter notebooks to run (noisy) Random Boolean Network simulations.
+Jupyter notebooks to run (noisy) Random Boolean Network simulations that generate synthetic gene expression data.
 
 Paper reference: Kocaoglu, B; Alexander, W., _Degeneracy measures in biologically plausible random Boolean networks_. BMC Bioinformatics (2022) 23:71. ([open access link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04601-5))
 
