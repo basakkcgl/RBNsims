@@ -14,7 +14,7 @@ The simulations here, thus, have varying activity as noisy bit-flip probability 
 ...
  # ADD SMALL FLIPPY THING FOR ALL GENES - INCLUDING PERTURBED ONES
  for allgenes in range(n):
-    coin= ['heads','tails']
+    coin = ['heads','tails']
     flip = np.random.choice(coin, p=[0.05, 0.95])
                         
 ```
